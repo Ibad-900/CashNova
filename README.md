@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/cash_nova_banner.png" alt="Cash Nova Team Banner" width="600"/>
+  <img src="./Screenshots/Cash_Nova_Team_Banner.png" alt="Cash Nova Team Banner" width="600"/>
 </p>
 # 💳 Cash Nova – Virtual ATM System (C++)
 
