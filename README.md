@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./images/cash_nova_banner.png" alt="Cash Nova Team Banner" width="600"/>
+</p>
 # 💳 Cash Nova – Virtual ATM System (C++)
 
 Cash Nova is a **Virtual ATM System** developed in **C++** using **Object-Oriented Programming (OOP)** and **file handling**. It simulates the core operations of an ATM, including user authentication, admin approval, money transfers, transaction history, and more — all in a console-based environment.
