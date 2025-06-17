@@ -52,7 +52,7 @@ This includes:
 ## 🔗 Connect
 
 - 📂 [GitHub – Cash Nova Repo](https://github.com/Ibad-900/CashNova)
-- 💼 [LinkedIn – Ibad Ur Rahman](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn – Ibad Ur Rahman](https://www.linkedin.com/in/ibad-ur-rahman-748ab5303)
 
 ---
 
