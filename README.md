@@ -40,7 +40,7 @@ Cash Nova is a **Virtual ATM System** developed in **C++** using **Object-Orient
 ## 👨‍💻 Developer
 
 This project was independently developed by **Ibad Ur Rahman** as part of an academic team project.  
-Team Members: [Faiq](#), [Saad](#) – tagged for collaboration.  
+Team Members: @FaiqShah05, [Saad](#) – tagged for collaboration.  
 Special thanks for being part of the journey.
 
 ## 📸 Screenshots
